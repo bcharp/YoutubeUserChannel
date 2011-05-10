@@ -1,0 +1,22 @@
+Licence : Whatever You Want (but based on SDImageCache and JSONKit)
+
+Absolutely No warranty of any kind.
+
+There is 3 view, one who list all the video of a user, one with the touchable
+video (launch the video player) and comments.
+And one to enter a Youtube user name.
+
+This is a simple test app, that just take a name
+of a youtube account in parameter and show all is videos and comments
+in a detailView.
+The Youtube fun code is under the Youtube group, YoutubeConnection, who
+take in charge the API Calls, YoutubeEntry, the basic video feed object
+(simplify to my need) and YoutubeCom basic object for comments API.
+
+The app only works on iOS 4.0+ because of some blocks, I didn't wanted to
+do a delegate for the Asynchronous call, that was a lot more fun with 
+blocks  (again this is an app done with in mind the purpose of testing).
+
+Youtube video doesnt work under the simulator.
+
+
