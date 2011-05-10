@@ -1,0 +1,1867 @@
+TYoutubeUserChannels
+v7
+r0
+t326756693.552645
+cCheck dependencies
+cProcessInfoPlistFile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist YoutubeUserChannels-Info.plist
+cCompileXIB /Users/boris/Desktop/youtube/Classes/../MainWindow.xib
+cCompileXIB /Users/boris/Desktop/youtube/Classes/../RootViewController.xib
+cCompileXIB /Users/boris/Desktop/youtube/Classes/DetailViewController.xib
+cCpResource build/Debug-iphonesimulator/YoutubeUserChannels.app/logo.jpg logo.jpg
+cCpResource build/Debug-iphonesimulator/YoutubeUserChannels.app/placeholder.jpg placeholder.jpg
+cCompileXIB /Users/boris/Desktop/youtube/Classes/ParameterViewController.xib
+cProcessPCH /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch.gch YoutubeUserChannels_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o /Users/boris/Desktop/youtube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o /Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o /Users/boris/Desktop/youtube/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o /Users/boris/Desktop/youtube/external/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o /Users/boris/Desktop/youtube/Classes/YoutubeEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o /Users/boris/Desktop/youtube/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o /Users/boris/Desktop/youtube/Classes/YoutubeCom.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o /Users/boris/Desktop/youtube/external/SDImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o /Users/boris/Desktop/youtube/external/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o /Users/boris/Desktop/youtube/external/SDWebImageManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o /Users/boris/Desktop/youtube/external/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o /Users/boris/Desktop/youtube/Classes/ParameterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o /Users/boris/Desktop/youtube/Classes/YoutubeConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o /Users/boris/Desktop/youtube/Classes/BCURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels normal i386
+cGenerateDSYMFile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+cTouch /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D54D02800000000001D6EC0
+t1297403944
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D54D01A000000000000046B
+t1297403930
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFArray.h
+c000000004D54CEB30000000000007AC8
+t1297403571
+s31432
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFDictionary.h
+c000000004D54CEB300000000000080D0
+t1297403571
+s32976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFNumber.h
+c000000004D54CEB30000000000000EDF
+t1297403571
+s3807
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFString.h
+c000000004D54CEB4000000000000B7CA
+t1297403572
+s47050
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004D54CFB80000000000001B27
+t1297403832
+s6951
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004D54CFB800000000000001CB
+t1297403832
+s459
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004D54CFB90000000000001777
+t1297403833
+s6007
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004D54CFBA0000000000000E3B
+t1297403834
+s3643
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSError.h
+c000000004D54CFBA0000000000001DE5
+t1297403834
+s7653
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSException.h
+c000000004D54CFBA0000000000002033
+t1297403834
+s8243
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSNull.h
+c000000004D54CFBC00000000000000B8
+t1297403836
+s184
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h
+c000000004D54CFBC0000000000002E87
+t1297403836
+s11911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004D54CFBD0000000000006506
+t1297403837
+s25862
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/AvailabilityMacros.h
+c000000004D4F7A2B0000000000007A5E
+t1297054251
+s31326
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonDigest.h
+c000000004A11E8210000000000002407
+t1242687521
+s9223
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/TargetConditionals.h
+c000000004D4F7A2B00000000000031E9
+t1297054251
+s12777
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/assert.h
+c000000004D4F6E990000000000000F6E
+t1297051289
+s3950
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/objc/runtime.h
+c000000004D54CB4300000000000063AF
+t1297402691
+s25519
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdlib.h
+c000000004D4F6E9A00000000000030A7
+t1297051290
+s12455
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/string.h
+c000000004D4F6E9A0000000000001A3A
+t1297051290
+s6714
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/errno.h
+c000000004D54D0E90000000000002A36
+t1297404137
+s10806
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A1198340000000000000C7E
+t1242667060
+s3198
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004A1198340000000000003197
+t1242667060
+s12695
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/boris/Desktop/pomfEtThud/Classes/../MainWindow.xib
+c000000004DC7FD5A000000000000674C
+t1304952154
+s26444
+
+N/Users/boris/Desktop/pomfEtThud/Classes/../RootViewController.xib
+c000000004DC70ED50000000000004455
+t1304891093
+s17493
+
+N/Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.h
+c000000004DC800610000000000000155
+t1304952929
+s341
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m
+c000000004DC7EDB4000000000000013E
+t1304948148
+s318
+i"BCURLConnection.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.h
+c000000004DC7FB5200000000000001F2
+t1304951634
+s498
+i<UIKit/UIKit.h>
+i"YoutubeEntry.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m
+c000000004DC7FB550000000000000B96
+t1304951637
+s2966
+i"DetailViewController.h"
+i"JSONKit.h"
+i"YoutubeCom.h"
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.xib
+c000000004DC72FF90000000000005192
+t1304899577
+s20882
+
+N/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.h
+c000000004DC7FC8B0000000000000136
+t1304951947
+s310
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m
+c000000004DC8007000000000000007A1
+t1304952944
+s1953
+i"ParameterViewController.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.xib
+c000000004DC7A372000000000000597B
+t1304929138
+s22907
+
+N/Users/boris/Desktop/pomfEtThud/Classes/RootViewController.h
+c000000004DC7FB70000000000000028C
+t1304951664
+s652
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m
+c000000004DC7FBA5000000000000102C
+t1304951717
+s4140
+i"RootViewController.h"
+i"JSONKit.h"
+i"YoutubeEntry.h"
+i"DetailViewController.h"
+i"UIImageView+WebCache.h"
+i"ParameterViewController.h"
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.h
+c000000004DC7FFB80000000000000202
+t1304952760
+s514
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m
+c000000004DC8003E0000000000000B3E
+t1304952894
+s2878
+i"YoutubeAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.h
+c000000004DC72B2F000000000000019C
+t1304898351
+s412
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m
+c000000004DC72B19000000000000018B
+t1304898329
+s395
+i"YoutubeCom.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.h
+c000000004DC7F53A00000000000002C4
+t1304950074
+s708
+i<Foundation/Foundation.h>
+i"YoutubeEntry.h"
+i"YoutubeCom.h"
+i"JSONKit.h"
+i"BCURLConnection.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m
+c000000004DC7F68D000000000000112B
+t1304950413
+s4395
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.h
+c000000004DC7181F000000000000033B
+t1304893471
+s827
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m
+c000000004DC7150D000000000000023A
+t1304892685
+s570
+i"YoutubeEntry.h"
+
+N/Users/boris/Desktop/pomfEtThud/Classes/pomfEtThudAppDelegate.h
+c000000004DC70ED500000000000003EB
+t1304891093
+s1003
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/boris/Desktop/pomfEtThud/Classes/pomfEtThudAppDelegate.m
+c000000004DC70ED50000000000001FEC
+t1304891093
+s8172
+i"pomfEtThudAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/boris/Desktop/pomfEtThud/JSONKit.h
+c000000004D898AAE00000000000024D3
+t1300859566
+s9427
+i<stddef.h>
+i<stdint.h>
+i<limits.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSString.h>
+
+N/Users/boris/Desktop/pomfEtThud/JSONKit.m
+c000000004D898AAE0000000000029069
+t1300859566
+s168041
+i<stdio.h>
+i<stdlib.h>
+i<stdint.h>
+i<string.h>
+i<assert.h>
+i<sys/errno.h>
+i<math.h>
+i<limits.h>
+i<objc/runtime.h>
+i"JSONKit.h"
+i<CoreFoundation/CFString.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFDictionary.h>
+i<CoreFoundation/CFNumber.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNull.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/boris/Desktop/pomfEtThud/SDImageCache.h
+c000000004C9205DA0000000000000444
+t1284638170
+s1092
+i<Foundation/Foundation.h>
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/pomfEtThud/SDImageCache.m
+c000000004C9205DA0000000000002790
+t1284638170
+s10128
+i"SDImageCache.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/boris/Desktop/pomfEtThud/SDImageCacheDelegate.h
+c000000004C9205DA00000000000001F5
+t1284638170
+s501
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.h
+c000000004C9205DA0000000000000396
+t1284638170
+s918
+i<Foundation/Foundation.h>
+i"SDWebImageDownloaderDelegate.h"
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m
+c000000004C9205DA0000000000000CE7
+t1284638170
+s3303
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageDownloaderDelegate.h
+c000000004C9205DA000000000000024B
+t1284638170
+s587
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageManager.h
+c000000004C9205DA0000000000000339
+t1284638170
+s825
+i<UIKit/UIKit.h>
+i"SDWebImageDownloaderDelegate.h"
+i"SDWebImageManagerDelegate.h"
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageManager.m
+c000000004C9205DA0000000000001352
+t1284638170
+s4946
+i"SDWebImageManager.h"
+i"SDImageCache.h"
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/pomfEtThud/SDWebImageManagerDelegate.h
+c000000004C9205DA00000000000001A1
+t1284638170
+s417
+
+N/Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.h
+c000000004C9205DA00000000000001FE
+t1284638170
+s510
+i<UIKit/UIKit.h>
+i"SDWebImageManagerDelegate.h"
+
+N/Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m
+c000000004C9205DA00000000000003EC
+t1284638170
+s1004
+i"UIImageView+WebCache.h"
+i"SDWebImageManager.h"
+
+N/Users/boris/Desktop/pomfEtThud/YoutubeUserChannels_Prefix.pch
+c000000004DC70ED50000000000000169
+t1304891093
+s361
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app
+t1304952947
+s408
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM
+t1304952947
+s102
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/DetailViewController.nib
+t1304952435
+s2041
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist
+t1304952433
+s669
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/MainWindow.nib
+t1304952434
+s3133
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/ParameterViewController.nib
+t1304952435
+s3090
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/PkgInfo
+t1304952433
+s8
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/RootViewController.nib
+t1304952434
+s1518
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+t1304952946
+s221640
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/logo.jpg
+t1304952435
+s12752
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/placeholder.jpg
+t1304952435
+s31051
+
+N/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/pomfEtThud.momd
+t1304952436
+s136
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o
+t1304952946
+s9296
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o
+t1304952946
+s55648
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o
+t1304952437
+s243308
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o
+t1304952946
+s44300
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o
+t1304952946
+s62948
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o
+t1304952437
+s33832
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o
+t1304952437
+s22176
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o
+t1304952437
+s23360
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o
+t1304952437
+s41056
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o
+t1304952946
+s54928
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o
+t1304952437
+s10120
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o
+t1304952946
+s25652
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o
+t1304952437
+s12676
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeUserChannels.LinkFileList
+c000000004DC7FE710000000000000837
+t1304952433
+s2103
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o
+t1304952436
+s6296
+
+N/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/pomfEtThudAppDelegate.o
+t2
+s0
+
+N/Users/boris/Desktop/pomfEtThud/logo.jpg
+c000000004DC7311200000000000031D0
+t1304899858
+s12752
+
+N/Users/boris/Desktop/pomfEtThud/main.m
+c000000004DC70ED50000000000000167
+t1304891093
+s359
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/pomfEtThud/placeholder.jpg
+c000000004DC736F7000000000000794B
+t1304901367
+s31051
+
+N/Users/boris/Desktop/pomfEtThud/pomfEtThud.xcdatamodeld
+c000000004DC7FCD20000000000000088
+t1304952018
+s136
+
+N/Users/boris/Desktop/youtube/Classes/../MainWindow.xib
+c000000004DC7FD5A000000000000674C
+t1304952154
+s26444
+
+N/Users/boris/Desktop/youtube/Classes/../RootViewController.xib
+c000000004DC70ED50000000000004455
+t1304891093
+s17493
+
+N/Users/boris/Desktop/youtube/Classes/BCURLConnection.h
+c000000004DC96C9F0000000000000152
+t1305046175
+s338
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/youtube/Classes/BCURLConnection.m
+c000000004DC96C9C000000000000013B
+t1305046172
+s315
+i"BCURLConnection.h"
+
+N/Users/boris/Desktop/youtube/Classes/DetailViewController.h
+c000000004DC96CAB00000000000001EF
+t1305046187
+s495
+i<UIKit/UIKit.h>
+i"YoutubeEntry.h"
+
+N/Users/boris/Desktop/youtube/Classes/DetailViewController.m
+c000000004DC96CAC0000000000000B93
+t1305046188
+s2963
+i"DetailViewController.h"
+i"JSONKit.h"
+i"YoutubeCom.h"
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/youtube/Classes/DetailViewController.xib
+c000000004DC72FF90000000000005192
+t1304899577
+s20882
+
+N/Users/boris/Desktop/youtube/Classes/ParameterViewController.h
+c000000004DC96CA10000000000000133
+t1305046177
+s307
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/youtube/Classes/ParameterViewController.m
+c000000004DC96CA3000000000000079E
+t1305046179
+s1950
+i"ParameterViewController.h"
+
+N/Users/boris/Desktop/youtube/Classes/ParameterViewController.xib
+c000000004DC7A372000000000000597B
+t1304929138
+s22907
+
+N/Users/boris/Desktop/youtube/Classes/RootViewController.h
+c000000004DC96CA50000000000000289
+t1305046181
+s649
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/boris/Desktop/youtube/Classes/RootViewController.m
+c000000004DC96CA9000000000000102B
+t1305046185
+s4139
+i"RootViewController.h"
+i"JSONKit.h"
+i"YoutubeEntry.h"
+i"DetailViewController.h"
+i"UIImageView+WebCache.h"
+i"ParameterViewController.h"
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.h
+c000000004DC9B1BA00000000000001FC
+t1305063866
+s508
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m
+c000000004DC96E9A0000000000000B38
+t1305046682
+s2872
+i"YoutubeAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeCom.h
+c000000004DC96CAE0000000000000199
+t1305046190
+s409
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeCom.m
+c000000004DC96CB00000000000000188
+t1305046192
+s392
+i"YoutubeCom.h"
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeConnection.h
+c000000004DC96E9300000000000002C1
+t1305046675
+s705
+i<Foundation/Foundation.h>
+i"YoutubeEntry.h"
+i"YoutubeCom.h"
+i"JSONKit.h"
+i"BCURLConnection.h"
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m
+c000000004DC96CB50000000000001121
+t1305046197
+s4385
+i"YoutubeConnection.h"
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeEntry.h
+c000000004DC96CB10000000000000338
+t1305046193
+s824
+i<Foundation/Foundation.h>
+
+N/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m
+c000000004DC96CB40000000000000237
+t1305046196
+s567
+i"YoutubeEntry.h"
+
+N/Users/boris/Desktop/youtube/JSONKit.h
+c000000004D898AAE00000000000024D3
+t1300859566
+s9427
+i<stddef.h>
+i<stdint.h>
+i<limits.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSString.h>
+
+N/Users/boris/Desktop/youtube/JSONKit.m
+c000000004D898AAE0000000000029069
+t1300859566
+s168041
+i<stdio.h>
+i<stdlib.h>
+i<stdint.h>
+i<string.h>
+i<assert.h>
+i<sys/errno.h>
+i<math.h>
+i<limits.h>
+i<objc/runtime.h>
+i"JSONKit.h"
+i<CoreFoundation/CFString.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFDictionary.h>
+i<CoreFoundation/CFNumber.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNull.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/boris/Desktop/youtube/SDImageCache.h
+c000000004C9205DA0000000000000444
+t1284638170
+s1092
+i<Foundation/Foundation.h>
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/youtube/SDImageCache.m
+c000000004C9205DA0000000000002790
+t1284638170
+s10128
+i"SDImageCache.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/boris/Desktop/youtube/SDImageCacheDelegate.h
+c000000004C9205DA00000000000001F5
+t1284638170
+s501
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/youtube/SDWebImageDownloader.h
+c000000004C9205DA0000000000000396
+t1284638170
+s918
+i<Foundation/Foundation.h>
+i"SDWebImageDownloaderDelegate.h"
+
+N/Users/boris/Desktop/youtube/SDWebImageDownloader.m
+c000000004C9205DA0000000000000CE7
+t1284638170
+s3303
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/youtube/SDWebImageDownloaderDelegate.h
+c000000004C9205DA000000000000024B
+t1284638170
+s587
+
+N/Users/boris/Desktop/youtube/SDWebImageManager.h
+c000000004C9205DA0000000000000339
+t1284638170
+s825
+i<UIKit/UIKit.h>
+i"SDWebImageDownloaderDelegate.h"
+i"SDWebImageManagerDelegate.h"
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/youtube/SDWebImageManager.m
+c000000004C9205DA0000000000001352
+t1284638170
+s4946
+i"SDWebImageManager.h"
+i"SDImageCache.h"
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/youtube/SDWebImageManagerDelegate.h
+c000000004C9205DA00000000000001A1
+t1284638170
+s417
+
+N/Users/boris/Desktop/youtube/UIImageView+WebCache.h
+c000000004C9205DA00000000000001FE
+t1284638170
+s510
+i<UIKit/UIKit.h>
+i"SDWebImageManagerDelegate.h"
+
+N/Users/boris/Desktop/youtube/UIImageView+WebCache.m
+c000000004C9205DA00000000000003EC
+t1284638170
+s1004
+i"UIImageView+WebCache.h"
+i"SDWebImageManager.h"
+
+N/Users/boris/Desktop/youtube/YoutubeUserChannels_Prefix.pch
+c000000004DC96E9C0000000000000163
+t1305046684
+s355
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app
+t1305063871
+s374
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM
+t1305063871
+s102
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/DetailViewController.nib
+t1305063868
+s1235
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist
+t1305063867
+s669
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/MainWindow.nib
+t1305063868
+s1686
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/ParameterViewController.nib
+t1305063868
+s1644
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/PkgInfo
+t1305063867
+s8
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/RootViewController.nib
+t1305063868
+s979
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+t1305063871
+s221604
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/logo.jpg
+t1305063868
+s12752
+
+N/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/placeholder.jpg
+t1305063868
+s31051
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o
+t1305063871
+s10156
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o
+t1305063870
+s56508
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o
+t1305063871
+s244184
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o
+t1305063871
+s45160
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o
+t1305063870
+s63508
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o
+t1305063870
+s34712
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o
+t1305063870
+s23060
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o
+t1305063870
+s24240
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o
+t1305063871
+s41936
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o
+t1305063870
+s55792
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o
+t1305063870
+s10984
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o
+t1305063871
+s25844
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o
+t1305063870
+s13540
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeUserChannels.LinkFileList
+c000000004DC9B1BB000000000000080D
+t1305063867
+s2061
+
+N/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o
+t1305063870
+s7160
+
+N/Users/boris/Desktop/youtube/external/JSONKit.h
+c000000004D898AAE00000000000024D3
+t1300859566
+s9427
+i<stddef.h>
+i<stdint.h>
+i<limits.h>
+i<TargetConditionals.h>
+i<AvailabilityMacros.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSError.h>
+i<Foundation/NSObjCRuntime.h>
+i<Foundation/NSString.h>
+
+N/Users/boris/Desktop/youtube/external/JSONKit.m
+c000000004D898AAE0000000000029069
+t1300859566
+s168041
+i<stdio.h>
+i<stdlib.h>
+i<stdint.h>
+i<string.h>
+i<assert.h>
+i<sys/errno.h>
+i<math.h>
+i<limits.h>
+i<objc/runtime.h>
+i"JSONKit.h"
+i<CoreFoundation/CFString.h>
+i<CoreFoundation/CFArray.h>
+i<CoreFoundation/CFDictionary.h>
+i<CoreFoundation/CFNumber.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSException.h>
+i<Foundation/NSNull.h>
+i<Foundation/NSObjCRuntime.h>
+
+N/Users/boris/Desktop/youtube/external/SDImageCache.h
+c000000004C9205DA0000000000000444
+t1284638170
+s1092
+i<Foundation/Foundation.h>
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/youtube/external/SDImageCache.m
+c000000004C9205DA0000000000002790
+t1284638170
+s10128
+i"SDImageCache.h"
+i<CommonCrypto/CommonDigest.h>
+
+N/Users/boris/Desktop/youtube/external/SDImageCacheDelegate.h
+c000000004C9205DA00000000000001F5
+t1284638170
+s501
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/youtube/external/SDWebImageDownloader.h
+c000000004C9205DA0000000000000396
+t1284638170
+s918
+i<Foundation/Foundation.h>
+i"SDWebImageDownloaderDelegate.h"
+
+N/Users/boris/Desktop/youtube/external/SDWebImageDownloader.m
+c000000004C9205DA0000000000000CE7
+t1284638170
+s3303
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/youtube/external/SDWebImageDownloaderDelegate.h
+c000000004C9205DA000000000000024B
+t1284638170
+s587
+
+N/Users/boris/Desktop/youtube/external/SDWebImageManager.h
+c000000004C9205DA0000000000000339
+t1284638170
+s825
+i<UIKit/UIKit.h>
+i"SDWebImageDownloaderDelegate.h"
+i"SDWebImageManagerDelegate.h"
+i"SDImageCacheDelegate.h"
+
+N/Users/boris/Desktop/youtube/external/SDWebImageManager.m
+c000000004C9205DA0000000000001352
+t1284638170
+s4946
+i"SDWebImageManager.h"
+i"SDImageCache.h"
+i"SDWebImageDownloader.h"
+
+N/Users/boris/Desktop/youtube/external/SDWebImageManagerDelegate.h
+c000000004C9205DA00000000000001A1
+t1284638170
+s417
+
+N/Users/boris/Desktop/youtube/external/UIImageView+WebCache.h
+c000000004C9205DA00000000000001FE
+t1284638170
+s510
+i<UIKit/UIKit.h>
+i"SDWebImageManagerDelegate.h"
+
+N/Users/boris/Desktop/youtube/external/UIImageView+WebCache.m
+c000000004C9205DA00000000000003EC
+t1284638170
+s1004
+i"UIImageView+WebCache.h"
+i"SDWebImageManager.h"
+
+N/Users/boris/Desktop/youtube/logo.jpg
+c000000004DC7311200000000000031D0
+t1304899858
+s12752
+
+N/Users/boris/Desktop/youtube/main.m
+c000000004DC96EC00000000000000164
+t1305046720
+s356
+i<UIKit/UIKit.h>
+
+N/Users/boris/Desktop/youtube/placeholder.jpg
+c000000004DC736F7000000000000794B
+t1304901367
+s31051
+
+N/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch.gch
+t1304952436
+s16679120
+
+N/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch.gch
+t1305030130
+s16679120
+
+N/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch.gch
+t1305063870
+s16679120
+
+NYoutubeUserChannels-Info.plist
+c000000004DC80D5800000000000003C1
+t1304956248
+s961
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies326756693#326756693#0(0"0(0#1#0"7810770549103674368#0"0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o /Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.782138
+e326645746.885938
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o
+x/Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m326645746#326645746#0(0"0(0#0#57"/Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m8646895968#2107"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/BCURLConnection.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o /Users/boris/Desktop/youtube/Classes/BCURLConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756671.174080
+e326756671.231197
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o
+x/Users/boris/Desktop/youtube/Classes/BCURLConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/boris/Desktop/youtube/Classes/BCURLConnection.m326756671#326756671#0(0"0(0#0#54"/Users/boris/Desktop/youtube/Classes/BCURLConnection.m8611516512#2074"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/BCURLConnection.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/BCURLConnection.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o /Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.328289
+e326645746.677958
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o
+x/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:21: warning: class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: 'DetailViewController' may not respond to '-configureCell:atIndexPath:'
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: (Messages without a matching method signature
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: '...' as arguments.)
+lSLF07#2@70"Compile /Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326645746#326645746#0(2118"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:21: warning: class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: 'DetailViewController' may not respond to '-configureCell:atIndexPath:'/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: (Messages without a matching method signature/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: will be assumed to return 'id' and accept/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m:67: warning: '...' as arguments.)14(22@84"Class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol326645746#115#161#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#21#0#21#0#45"class '*' does not implement the '*' protocol0(22@31"Unknown escape sequence: '\040'326645746#276#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#387#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#498#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#609#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#720#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#831#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#942#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#1053#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#1164#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#1275#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326645746#1386#111#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#37#0#37#0#0"0(22@71"'DetailViewController' may not respond to '-configureCell:atIndexPath:'326645746#1633#148#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)326645746#1781#122#0(6@62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m326644437#67#0#67#0#0"0(0#0#62"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m8644748928#2117"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o /Users/boris/Desktop/youtube/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.572680
+e326756670.669745
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o
+x/Users/boris/Desktop/youtube/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:21: warning: class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: 'DetailViewController' may not respond to '-configureCell:atIndexPath:'
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: (Messages without a matching method signature
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: will be assumed to return 'id' and accept
+o/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: '...' as arguments.)
+lSLF07#2@67"Compile /Users/boris/Desktop/youtube/Classes/DetailViewController.m326756670#326756670#0(2064"/Users/boris/Desktop/youtube/Classes/DetailViewController.m: In function '-[DetailViewController viewDidLoad]':/Users/boris/Desktop/youtube/Classes/DetailViewController.m:21: warning: class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:37:25: warning: unknown escape sequence: '\040'/Users/boris/Desktop/youtube/Classes/DetailViewController.m: In function '-[DetailViewController tableView:cellForRowAtIndexPath:]':/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: 'DetailViewController' may not respond to '-configureCell:atIndexPath:'/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: (Messages without a matching method signature/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: will be assumed to return 'id' and accept/Users/boris/Desktop/youtube/Classes/DetailViewController.m:67: warning: '...' as arguments.)14(22@84"Class 'DetailViewController' does not implement the 'UITableViewDataSource' protocol326756670#112#158#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#21#0#21#0#45"class '*' does not implement the '*' protocol0(22@31"Unknown escape sequence: '\040'326756670#270#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#378#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#486#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#594#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#702#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#810#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#918#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#1026#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#1134#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#1242#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@31"Unknown escape sequence: '\040'326756670#1350#108#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#37#0#37#0#0"0(22@71"'DetailViewController' may not respond to '-configureCell:atIndexPath:'326756670#1591#145#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#67#0#67#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)326756670#1736#119#0(6@59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m326738988#67#0#67#0#0"0(0#0#59"/Users/boris/Desktop/youtube/Classes/DetailViewController.m8614591328#2084"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/DetailViewController.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o /Users/boris/Desktop/pomfEtThud/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645236.970852
+e326645237.831574
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o
+x/Users/boris/Desktop/pomfEtThud/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/boris/Desktop/pomfEtThud/JSONKit.m326645236#326645237#0(0"0(0#0#41"/Users/boris/Desktop/pomfEtThud/JSONKit.m8646824352#2083"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/JSONKit.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o /Users/boris/Desktop/youtube/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722930.384943
+e326722931.063716
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o
+x/Users/boris/Desktop/youtube/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/boris/Desktop/youtube/JSONKit.m326722930#326722931#0(0"0(0#0#38"/Users/boris/Desktop/youtube/JSONKit.m8610524256#2050"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/JSONKit.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o /Users/boris/Desktop/youtube/external/JSONKit.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.430620
+e326756671.173982
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o
+x/Users/boris/Desktop/youtube/external/JSONKit.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/boris/Desktop/youtube/external/JSONKit.m326756670#326756671#0(0"0(0#0#47"/Users/boris/Desktop/youtube/external/JSONKit.m8608420480#2059"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/external/JSONKit.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/JSONKit.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o /Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.395975
+e326645746.782036
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o
+x/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m: In function '-[ParameterViewController textFieldShouldReturn:]':
+o/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m:49: warning: local declaration of 'textField' hides instance variable
+o/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m:50: warning: local declaration of 'textField' hides instance variable
+lSLF07#2@73"Compile /Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m326645746#326645746#0(404"/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m: In function '-[ParameterViewController textFieldShouldReturn:]':/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m:49: warning: local declaration of 'textField' hides instance variable/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m:50: warning: local declaration of 'textField' hides instance variable2(22@56"Local declaration of 'textField' hides instance variable326645746#132#136#0(6@65"/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m326645744#49#0#49#0#0"0(22@56"Local declaration of 'textField' hides instance variable326645746#268#136#0(6@65"/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m326645744#50#0#50#0#0"0(0#0#65"/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m8641924768#2123"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o /Users/boris/Desktop/youtube/Classes/ParameterViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756671.062585
+e326756671.142022
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o
+x/Users/boris/Desktop/youtube/Classes/ParameterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/youtube/Classes/ParameterViewController.m: In function '-[ParameterViewController textFieldShouldReturn:]':
+o/Users/boris/Desktop/youtube/Classes/ParameterViewController.m:49: warning: local declaration of 'textField' hides instance variable
+o/Users/boris/Desktop/youtube/Classes/ParameterViewController.m:50: warning: local declaration of 'textField' hides instance variable
+lSLF07#2@70"Compile /Users/boris/Desktop/youtube/Classes/ParameterViewController.m326756671#326756671#0(395"/Users/boris/Desktop/youtube/Classes/ParameterViewController.m: In function '-[ParameterViewController textFieldShouldReturn:]':/Users/boris/Desktop/youtube/Classes/ParameterViewController.m:49: warning: local declaration of 'textField' hides instance variable/Users/boris/Desktop/youtube/Classes/ParameterViewController.m:50: warning: local declaration of 'textField' hides instance variable2(22@56"Local declaration of 'textField' hides instance variable326756671#129#133#0(6@62"/Users/boris/Desktop/youtube/Classes/ParameterViewController.m326738979#49#0#49#0#0"0(22@56"Local declaration of 'textField' hides instance variable326756671#262#133#0(6@62"/Users/boris/Desktop/youtube/Classes/ParameterViewController.m326738979#50#0#50#0#0"0(0#0#62"/Users/boris/Desktop/youtube/Classes/ParameterViewController.m8614174944#2090"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/ParameterViewController.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/ParameterViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o /Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.191085
+e326645746.395282
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o
+x/Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m326645746#326645746#0(0"0(0#0#60"/Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m8647030816#2113"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/RootViewController.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o /Users/boris/Desktop/youtube/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.398961
+e326756670.513073
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o
+x/Users/boris/Desktop/youtube/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/boris/Desktop/youtube/Classes/RootViewController.m326756670#326756670#0(0"0(0#0#57"/Users/boris/Desktop/youtube/Classes/RootViewController.m8609629120#2080"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/RootViewController.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o /Users/boris/Desktop/pomfEtThud/SDImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645237.281481
+e326645237.386743
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o
+x/Users/boris/Desktop/pomfEtThud/SDImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/boris/Desktop/pomfEtThud/SDImageCache.m326645237#326645237#0(0"0(0#0#46"/Users/boris/Desktop/pomfEtThud/SDImageCache.m8646908224#2093"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/SDImageCache.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o /Users/boris/Desktop/youtube/SDImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722930.807804
+e326722930.921893
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o
+x/Users/boris/Desktop/youtube/SDImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/boris/Desktop/youtube/SDImageCache.m326722930#326722930#0(0"0(0#0#43"/Users/boris/Desktop/youtube/SDImageCache.m8609355488#2060"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/SDImageCache.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o /Users/boris/Desktop/youtube/external/SDImageCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.730016
+e326756670.831847
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o
+x/Users/boris/Desktop/youtube/external/SDImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/boris/Desktop/youtube/external/SDImageCache.m326756670#326756670#0(0"0(0#0#52"/Users/boris/Desktop/youtube/external/SDImageCache.m8604463296#2069"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/external/SDImageCache.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDImageCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o /Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645237.386840
+e326645237.469103
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o
+x/Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m326645237#326645237#0(0"0(0#0#54"/Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m8642288768#2109"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/SDWebImageDownloader.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o /Users/boris/Desktop/youtube/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722930.921998
+e326722931.008153
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o
+x/Users/boris/Desktop/youtube/SDWebImageDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/boris/Desktop/youtube/SDWebImageDownloader.m326722930#326722931#0(0"0(0#0#51"/Users/boris/Desktop/youtube/SDWebImageDownloader.m8607806976#2076"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/SDWebImageDownloader.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o /Users/boris/Desktop/youtube/external/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.831943
+e326756670.903893
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o
+x/Users/boris/Desktop/youtube/external/SDWebImageDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Desktop/youtube/external/SDWebImageDownloader.m326756670#326756670#0(0"0(0#0#60"/Users/boris/Desktop/youtube/external/SDWebImageDownloader.m8613857504#2085"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/external/SDWebImageDownloader.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageDownloader.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o /Users/boris/Desktop/pomfEtThud/SDWebImageManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645237.469204
+e326645237.578167
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o
+x/Users/boris/Desktop/pomfEtThud/SDWebImageManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/boris/Desktop/pomfEtThud/SDWebImageManager.m326645237#326645237#0(0"0(0#0#51"/Users/boris/Desktop/pomfEtThud/SDWebImageManager.m8637612672#2103"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/SDWebImageManager.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o /Users/boris/Desktop/youtube/SDWebImageManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722931.008259
+e326722931.107149
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o
+x/Users/boris/Desktop/youtube/SDWebImageManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/boris/Desktop/youtube/SDWebImageManager.m326722931#326722931#0(0"0(0#0#48"/Users/boris/Desktop/youtube/SDWebImageManager.m8606647584#2070"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/SDWebImageManager.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o /Users/boris/Desktop/youtube/external/SDWebImageManager.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.903987
+e326756670.994570
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o
+x/Users/boris/Desktop/youtube/external/SDWebImageManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/boris/Desktop/youtube/external/SDWebImageManager.m326756670#326756670#0(0"0(0#0#57"/Users/boris/Desktop/youtube/external/SDWebImageManager.m8613662784#2079"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/external/SDWebImageManager.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/SDWebImageManager.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o /Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645237.578267
+e326645237.657978
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o
+x/Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m326645237#326645237#0(0"0(0#0#54"/Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m8647500064#2109"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/UIImageView+WebCache.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o /Users/boris/Desktop/youtube/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722931.063813
+e326722931.150053
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o
+x/Users/boris/Desktop/youtube/UIImageView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/boris/Desktop/youtube/UIImageView+WebCache.m326722931#326722931#0(0"0(0#0#51"/Users/boris/Desktop/youtube/UIImageView+WebCache.m8603191904#2076"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/UIImageView+WebCache.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o /Users/boris/Desktop/youtube/external/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.994666
+e326756671.062486
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o
+x/Users/boris/Desktop/youtube/external/UIImageView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Desktop/youtube/external/UIImageView+WebCache.m326756670#326756671#0(0"0(0#0#60"/Users/boris/Desktop/youtube/external/UIImageView+WebCache.m8614512480#2085"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/external/UIImageView+WebCache.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/UIImageView+WebCache.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o /Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.190030
+e326645746.327997
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o
+x/Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m326645746#326645746#0(0"0(0#0#60"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m8615041312#2113"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/YoutubeAppDelegate.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o /Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.339569
+e326756670.430522
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o
+x/Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m326756670#326756670#0(0"0(0#0#57"/Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m8611391360#2080"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/YoutubeAppDelegate.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeAppDelegate.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o /Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645237.200245
+e326645237.281373
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o
+x/Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m326645237#326645237#0(0"0(0#0#52"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m8647179712#2097"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/YoutubeCom.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o /Users/boris/Desktop/youtube/Classes/YoutubeCom.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.669836
+e326756670.729912
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o
+x/Users/boris/Desktop/youtube/Classes/YoutubeCom.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/boris/Desktop/youtube/Classes/YoutubeCom.m326756670#326756670#0(0"0(0#0#49"/Users/boris/Desktop/youtube/Classes/YoutubeCom.m8609422112#2064"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/YoutubeCom.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeCom.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o /Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645746.678053
+e326645746.808643
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o
+x/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection dealloc]':
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:23: warning: invalid receiver type 'NSInteger *'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithName:andBlock:]':
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:41: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithCommentUrl:andBlock:]':
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:54: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection connectionDidFinishLoading:]':
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:78: warning: comparison between pointer and integer
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:84: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:87: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:89: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:90: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:90: warning: passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:92: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:94: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: 'NSArray' may not respond to '-addObject:'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: (Messages without a matching method signature
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: will be assumed to return 'id' and accept
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: '...' as arguments.)
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:102: warning: comparison between pointer and integer
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:109: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:113: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:115: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:117: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:119: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:123: warning: 'NSArray' may not respond to '-addObject:'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: At top level:
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:133: warning: incomplete implementation of class 'YoutubeConnection'
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:133: warning: method definition for '-launchWithName:' not found
+lSLF07#2@67"Compile /Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326645746#326645746#0(3270"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection dealloc]':/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:23: warning: invalid receiver type 'NSInteger *'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithName:andBlock:]':/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:41: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithCommentUrl:andBlock:]':/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:54: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: In function '-[YoutubeConnection connectionDidFinishLoading:]':/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:78: warning: comparison between pointer and integer/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:84: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:87: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:89: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:90: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:90: warning: passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:92: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:94: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: 'NSArray' may not respond to '-addObject:'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: (Messages without a matching method signature/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: will be assumed to return 'id' and accept/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:98: warning: '...' as arguments.)/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:102: warning: comparison between pointer and integer/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:109: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:113: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:115: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:117: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:119: warning: invalid receiver type 'id*'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:123: warning: 'NSArray' may not respond to '-addObject:'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m: At top level:/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:133: warning: incomplete implementation of class 'YoutubeConnection'/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m:133: warning: method definition for '-launchWithName:' not found23(22@35"Invalid receiver type 'NSInteger *'326645746#105#109#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#23#0#23#0#0"0(22@73"Passing argument 1 of 'setTag:' makes pointer from integer without a cast326645746#336#147#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#41#0#41#0#0"0(22@73"Passing argument 1 of 'setTag:' makes pointer from integer without a cast326645746#611#147#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#54#0#54#0#0"0(22@38"Comparison between pointer and integer326645746#883#112#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#78#0#78#0#0"0(22@27"Invalid receiver type 'id*'326645746#995#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#84#0#84#0#0"0(22@27"Invalid receiver type 'id*'326645746#1096#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#87#0#87#0#0"0(22@27"Invalid receiver type 'id*'326645746#1197#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#89#0#89#0#0"0(22@27"Invalid receiver type 'id*'326645746#1298#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#90#0#90#0#0"0(22@82"Passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast326645746#1399#156#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#90#0#90#0#0"0(22@27"Invalid receiver type 'id*'326645746#1555#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#92#0#92#0#0"0(22@27"Invalid receiver type 'id*'326645746#1656#101#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#94#0#94#0#0"0(22@42"'NSArray' may not respond to '-addObject:'326645746#1757#116#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#98#0#98#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)326645746#1873#119#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#98#0#98#0#0"0(22@38"Comparison between pointer and integer326645746#2201#113#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#102#0#102#0#0"0(22@27"Invalid receiver type 'id*'326645746#2314#102#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#109#0#109#0#0"0(22@27"Invalid receiver type 'id*'326645746#2416#102#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#113#0#113#0#0"0(22@27"Invalid receiver type 'id*'326645746#2518#102#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#115#0#115#0#0"0(22@27"Invalid receiver type 'id*'326645746#2620#102#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#117#0#117#0#0"0(22@27"Invalid receiver type 'id*'326645746#2722#102#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#119#0#119#0#0"0(22@42"'NSArray' may not respond to '-addObject:'326645746#2824#117#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#123#0#123#0#26"'*' may not respond to '*'0(23@13"At top level:326645746#2941#75#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#0#0#0#0#0"0(22@54"Incomplete implementation of class 'YoutubeConnection'326645746#3016#129#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#133#0#133#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-launchWithName:' not found326645746#3145#125#0(6@59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m326643213#133#0#133#0#35"method definition for '*' not found0(0#0#59"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m8647360768#2111"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/YoutubeConnection.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o /Users/boris/Desktop/youtube/Classes/YoutubeConnection.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756671.142115
+e326756671.263501
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o
+x/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection dealloc]':
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:23: warning: invalid receiver type 'NSInteger *'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithName:andBlock:]':
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:41: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithCommentUrl:andBlock:]':
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:54: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection connectionDidFinishLoading:]':
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:78: warning: comparison between pointer and integer
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:84: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:87: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:89: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:90: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:90: warning: passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:92: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:94: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: 'NSArray' may not respond to '-addObject:'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: (Messages without a matching method signature
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: will be assumed to return 'id' and accept
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: '...' as arguments.)
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:102: warning: comparison between pointer and integer
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:109: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:115: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:117: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:119: warning: invalid receiver type 'id*'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:123: warning: 'NSArray' may not respond to '-addObject:'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: At top level:
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:133: warning: incomplete implementation of class 'YoutubeConnection'
+o/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:133: warning: method definition for '-launchWithName:' not found
+lSLF07#2@64"Compile /Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326756671#326756671#0(3084"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection dealloc]':/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:23: warning: invalid receiver type 'NSInteger *'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithName:andBlock:]':/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:41: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection launchWithCommentUrl:andBlock:]':/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:54: warning: passing argument 1 of 'setTag:' makes pointer from integer without a cast/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: In function '-[YoutubeConnection connectionDidFinishLoading:]':/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:78: warning: comparison between pointer and integer/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:84: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:87: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:89: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:90: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:90: warning: passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:92: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:94: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: 'NSArray' may not respond to '-addObject:'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: (Messages without a matching method signature/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: will be assumed to return 'id' and accept/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:98: warning: '...' as arguments.)/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:102: warning: comparison between pointer and integer/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:109: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:115: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:117: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:119: warning: invalid receiver type 'id*'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:123: warning: 'NSArray' may not respond to '-addObject:'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m: At top level:/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:133: warning: incomplete implementation of class 'YoutubeConnection'/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m:133: warning: method definition for '-launchWithName:' not found22(22@35"Invalid receiver type 'NSInteger *'326756671#102#106#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#23#0#23#0#0"0(22@73"Passing argument 1 of 'setTag:' makes pointer from integer without a cast326756671#327#144#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#41#0#41#0#0"0(22@73"Passing argument 1 of 'setTag:' makes pointer from integer without a cast326756671#596#144#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#54#0#54#0#0"0(22@38"Comparison between pointer and integer326756671#862#109#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#78#0#78#0#0"0(22@27"Invalid receiver type 'id*'326756671#971#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#84#0#84#0#0"0(22@27"Invalid receiver type 'id*'326756671#1069#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#87#0#87#0#0"0(22@27"Invalid receiver type 'id*'326756671#1167#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#89#0#89#0#0"0(22@27"Invalid receiver type 'id*'326756671#1265#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#90#0#90#0#0"0(22@82"Passing argument 1 of 'setCommentCount:' makes pointer from integer without a cast326756671#1363#153#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#90#0#90#0#0"0(22@27"Invalid receiver type 'id*'326756671#1516#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#92#0#92#0#0"0(22@27"Invalid receiver type 'id*'326756671#1614#98#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#94#0#94#0#0"0(22@42"'NSArray' may not respond to '-addObject:'326756671#1712#113#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#98#0#98#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)326756671#1825#116#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#98#0#98#0#0"0(22@38"Comparison between pointer and integer326756671#2144#110#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#102#0#102#0#0"0(22@27"Invalid receiver type 'id*'326756671#2254#99#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#109#0#109#0#0"0(22@27"Invalid receiver type 'id*'326756671#2353#99#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#115#0#115#0#0"0(22@27"Invalid receiver type 'id*'326756671#2452#99#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#117#0#117#0#0"0(22@27"Invalid receiver type 'id*'326756671#2551#99#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#119#0#119#0#0"0(22@42"'NSArray' may not respond to '-addObject:'326756671#2650#114#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#123#0#123#0#26"'*' may not respond to '*'0(23@13"At top level:326756671#2764#72#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#0#0#0#0#0"0(22@54"Incomplete implementation of class 'YoutubeConnection'326756671#2836#126#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#133#0#133#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-launchWithName:' not found326756671#2962#122#0(6@56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m326738997#133#0#133#0#35"method definition for '*' not found0(0#0#56"/Users/boris/Desktop/youtube/Classes/YoutubeConnection.m8613609280#2078"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/YoutubeConnection.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeConnection.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o /Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645236.971995
+e326645237.062793
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o
+x/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m: In function '-[YoutubeEntry dealloc]':
+o/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m:25: warning: invalid receiver type 'NSInteger *'
+lSLF07#2@62"Compile /Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m326645236#326645237#0(199"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m: In function '-[YoutubeEntry dealloc]':/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m:25: warning: invalid receiver type 'NSInteger *'1(22@35"Invalid receiver type 'NSInteger *'326645237#95#104#0(6@54"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m326585485#25#0#25#0#0"0(0#0#54"/Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m8644803008#2101"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/Classes/YoutubeEntry.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o /Users/boris/Desktop/youtube/Classes/YoutubeEntry.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.513173
+e326756670.572586
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o
+x/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m: In function '-[YoutubeEntry dealloc]':
+o/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m:25: warning: invalid receiver type 'NSInteger *'
+lSLF07#2@59"Compile /Users/boris/Desktop/youtube/Classes/YoutubeEntry.m326756670#326756670#0(193"/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m: In function '-[YoutubeEntry dealloc]':/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m:25: warning: invalid receiver type 'NSInteger *'1(22@35"Invalid receiver type 'NSInteger *'326756670#92#101#0(6@51"/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m326738996#25#0#25#0#0"0(0#0#51"/Users/boris/Desktop/youtube/Classes/YoutubeEntry.m8614156064#2068"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/Classes/YoutubeEntry.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeEntry.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o /Users/boris/Desktop/pomfEtThud/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645236.743355
+e326645236.827406
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o
+x/Users/boris/Desktop/pomfEtThud/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/boris/Desktop/pomfEtThud/main.m326645236#326645236#0(0"0(0#0#38"/Users/boris/Desktop/pomfEtThud/main.m8645806816#2077"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/pomfEtThud/main.m -o /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o /Users/boris/Desktop/youtube/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756670.338292
+e326756670.398858
+r1
+xCompileC
+xbuild/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o
+x/Users/boris/Desktop/youtube/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/boris/Desktop/youtube/main.m326756670#326756670#0(0"0(0#0#35"/Users/boris/Desktop/youtube/main.m8612268608#2044"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -include /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch -c /Users/boris/Desktop/youtube/main.m -o /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/main.o0#
+
+CCompileC build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/pomfEtThudAppDelegate.o /Users/boris/Desktop/pomfEtThud/Classes/pomfEtThudAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/boris/Desktop/pomfEtThud/Classes/../MainWindow.xib
+s326645233.233525
+e326645235.057385
+r1
+xCompileXIB
+x/Users/boris/Desktop/pomfEtThud/Classes/../MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/boris/Desktop/pomfEtThud/MainWindow.xib:18: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.
+lSLF07#2@36"CompileXIB Classes/../MainWindow.xib326645233#326645235#0(212"/* com.apple.ibtool.document.warnings *//Users/boris/Desktop/pomfEtThud/MainWindow.xib:18: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.1(22@110"This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.326645235#18446744073709551615#0#0(6@46"/Users/boris/Desktop/pomfEtThud/MainWindow.xib326644954#18#0#18#0#0"0(0#0#57"/Users/boris/Desktop/pomfEtThud/Classes/../MainWindow.xib8644063936#572"    cd /Users/boris/Desktop/pomfEtThud    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/MainWindow.nib /Users/boris/Desktop/pomfEtThud/Classes/../MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/pomfEtThud/Classes/../RootViewController.xib
+s326645233.234295
+e326645235.021196
+r1
+xCompileXIB
+x/Users/boris/Desktop/pomfEtThud/Classes/../RootViewController.xib
+lSLF07#2@44"CompileXIB Classes/../RootViewController.xib326645233#326645235#0(0"0(0#0#65"/Users/boris/Desktop/pomfEtThud/Classes/../RootViewController.xib8643533952#588"    cd /Users/boris/Desktop/pomfEtThud    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/RootViewController.nib /Users/boris/Desktop/pomfEtThud/Classes/../RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.xib
+s326645235.021331
+e326645235.789519
+r1
+xCompileXIB
+x/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib326645235#326645235#0(0"0(0#0#64"/Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.xib8645352096#589"    cd /Users/boris/Desktop/pomfEtThud    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/DetailViewController.nib /Users/boris/Desktop/pomfEtThud/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.xib
+s326645235.059760
+e326645235.832328
+r1
+xCompileXIB
+x/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.xib
+lSLF07#2@46"CompileXIB Classes/ParameterViewController.xib326645235#326645235#0(0"0(0#0#67"/Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.xib8643786528#595"    cd /Users/boris/Desktop/pomfEtThud    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/ParameterViewController.nib /Users/boris/Desktop/pomfEtThud/Classes/ParameterViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/youtube/Classes/../MainWindow.xib
+s326756667.411374
+e326756668.338317
+r1
+xCompileXIB
+x/Users/boris/Desktop/youtube/Classes/../MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/boris/Desktop/youtube/MainWindow.xib:18: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.
+lSLF07#2@36"CompileXIB Classes/../MainWindow.xib326756667#326756668#0(209"/* com.apple.ibtool.document.warnings *//Users/boris/Desktop/youtube/MainWindow.xib:18: warning: This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.1(22@110"This bar button item's style is set to 'plain'. This configuration is not supported when in a navigation item.326756668#18446744073709551615#0#0(6@43"/Users/boris/Desktop/youtube/MainWindow.xib326644954#18#0#18#0#0"0(0#0#54"/Users/boris/Desktop/youtube/Classes/../MainWindow.xib8610866752#563"    cd /Users/boris/Desktop/youtube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/MainWindow.nib /Users/boris/Desktop/youtube/Classes/../MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/youtube/Classes/../RootViewController.xib
+s326756667.412150
+e326756668.148668
+r1
+xCompileXIB
+x/Users/boris/Desktop/youtube/Classes/../RootViewController.xib
+lSLF07#2@44"CompileXIB Classes/../RootViewController.xib326756667#326756668#0(0"0(0#0#62"/Users/boris/Desktop/youtube/Classes/../RootViewController.xib8609754176#579"    cd /Users/boris/Desktop/youtube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/RootViewController.nib /Users/boris/Desktop/youtube/Classes/../RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/youtube/Classes/DetailViewController.xib
+s326756668.148774
+e326756668.862292
+r1
+xCompileXIB
+x/Users/boris/Desktop/youtube/Classes/DetailViewController.xib
+lSLF07#2@43"CompileXIB Classes/DetailViewController.xib326756668#326756668#0(0"0(0#0#61"/Users/boris/Desktop/youtube/Classes/DetailViewController.xib8614657984#580"    cd /Users/boris/Desktop/youtube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/DetailViewController.nib /Users/boris/Desktop/youtube/Classes/DetailViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/boris/Desktop/youtube/Classes/ParameterViewController.xib
+s326756668.339768
+e326756668.894117
+r1
+xCompileXIB
+x/Users/boris/Desktop/youtube/Classes/ParameterViewController.xib
+lSLF07#2@46"CompileXIB Classes/ParameterViewController.xib326756668#326756668#0(0"0(0#0#64"/Users/boris/Desktop/youtube/Classes/ParameterViewController.xib8614231264#586"    cd /Users/boris/Desktop/youtube    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/ParameterViewController.nib /Users/boris/Desktop/youtube/Classes/ParameterViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/YoutubeUserChannels.app/logo.jpg logo.jpg
+s326756668.338402
+e326756668.360092
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/YoutubeUserChannels.app/logo.jpg
+xlogo.jpg
+lSLF07#2@13"Copy logo.jpg326756668#326756668#0(0"0(0#0#37"/Users/boris/Desktop/youtube/logo.jpg8614415904#448"    cd /Users/boris/Desktop/youtube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/boris/Desktop/youtube/logo.jpg /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app0#
+
+CCpResource build/Debug-iphonesimulator/YoutubeUserChannels.app/placeholder.jpg placeholder.jpg
+s326756668.339167
+e326756668.360219
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/YoutubeUserChannels.app/placeholder.jpg
+xplaceholder.jpg
+lSLF07#2@20"Copy placeholder.jpg326756668#326756668#0(0"0(0#0#44"/Users/boris/Desktop/youtube/placeholder.jpg8614331872#455"    cd /Users/boris/Desktop/youtube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/boris/Desktop/youtube/placeholder.jpg /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app0#
+
+CDataModelVersionCompile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/pomfEtThud.momd /Users/boris/Desktop/pomfEtThud/pomfEtThud.xcdatamodeld
+s326645236.742399
+e326645236.834927
+r1
+xDataModelVersionCompile
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/pomfEtThud.momd
+x/Users/boris/Desktop/pomfEtThud/pomfEtThud.xcdatamodeld
+lSLF07#2@115"DataModelVersionCompile build/Debug-iphonesimulator/YoutubeUserChannels.app/pomfEtThud.momd pomfEtThud.xcdatamodeld326645236#326645236#0(0"0(0#0#55"/Users/boris/Desktop/pomfEtThud/pomfEtThud.xcdatamodeld8646353504#383"    cd /Users/boris/Desktop/pomfEtThud    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/boris/Desktop/pomfEtThud/pomfEtThud.xcdatamodeld /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/pomfEtThud.momd0#
+
+CGenerateDSYMFile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+s326645746.933809
+e326645747.075852
+r1
+xGenerateDSYMFile
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels326645746#326645747#0(0"0(0#0#103"/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels8645065440#398"    cd /Users/boris/Desktop/pomfEtThud    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels -o /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM0#
+
+CGenerateDSYMFile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+s326756671.405777
+e326756671.444219
+r1
+xGenerateDSYMFile
+x/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM
+x/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+lSLF07#2@145"GenerateDSYMFile build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels326756671#326756671#0(0"0(0#0#100"/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels8612938688#389"    cd /Users/boris/Desktop/youtube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels -o /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app.dSYM0#
+
+CLd /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels normal i386
+s326645746.886031
+e326645746.933721
+r1
+xLd
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+xnormal
+xi386
+lSLF07#2@108"Link /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels326645746#326645746#0(0"0(0#0#0"8647453824#945"    cd /Users/boris/Desktop/pomfEtThud    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -filelist /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeUserChannels.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels0#
+
+CLd /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels normal i386
+s326756671.263583
+e326756671.405672
+r1
+xLd
+x/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels
+xnormal
+xi386
+lSLF07#2@105"Link /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels326756671#326756671#0(0"0(0#0#0"8608376928#930"    cd /Users/boris/Desktop/youtube    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -filelist /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/Objects-normal/i386/YoutubeUserChannels.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/YoutubeUserChannels0#
+
+CProcessInfoPlistFile /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist YoutubeUserChannels-Info.plist
+s326645233.227015
+e326645233.233437
+r1
+xProcessInfoPlistFile
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist
+xYoutubeUserChannels-Info.plist
+lSLF07#2@38"Process YoutubeUserChannels-Info.plist326645233#326645233#0(0"0(0#0#62"/Users/boris/Desktop/pomfEtThud/YoutubeUserChannels-Info.plist8645144512#494"    cd /Users/boris/Desktop/pomfEtThud    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility YoutubeUserChannels-Info.plist -genpkginfo /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist YoutubeUserChannels-Info.plist
+s326756667.403867
+e326756667.411286
+r1
+xProcessInfoPlistFile
+x/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist
+xYoutubeUserChannels-Info.plist
+lSLF07#2@38"Process YoutubeUserChannels-Info.plist326756667#326756667#0(0"0(0#0#59"/Users/boris/Desktop/youtube/YoutubeUserChannels-Info.plist31244220637446252#485"    cd /Users/boris/Desktop/youtube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility YoutubeUserChannels-Info.plist -genpkginfo /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app/Info.plist0#
+
+CProcessPCH /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch.gch YoutubeUserChannels_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326645235.832456
+e326645236.742262
+r1
+xProcessPCH
+x/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch.gch
+xYoutubeUserChannels_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile YoutubeUserChannels_Prefix.pch326645235#326645236#0(0"0(0#0#62"/Users/boris/Desktop/pomfEtThud/YoutubeUserChannels_Prefix.pch8647381088#1964"    cd /Users/boris/Desktop/pomfEtThud    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator -I/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/pomfEtThud/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -c /Users/boris/Desktop/pomfEtThud/YoutubeUserChannels_Prefix.pch -o /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-cvlnefytxjfsdpcqxzzchpelbnun/YoutubeUserChannels_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch.gch YoutubeUserChannels_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326722928.477550
+e326722930.212854
+r1
+xProcessPCH
+x/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch.gch
+xYoutubeUserChannels_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile YoutubeUserChannels_Prefix.pch326722928#326722930#0(0"0(0#0#59"/Users/boris/Desktop/youtube/YoutubeUserChannels_Prefix.pch8608657216#1934"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -c /Users/boris/Desktop/youtube/YoutubeUserChannels_Prefix.pch -o /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-drmgpjnlalfolwgeszokpjbinexd/YoutubeUserChannels_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch.gch YoutubeUserChannels_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s326756668.894342
+e326756670.338054
+r1
+xProcessPCH
+x/var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch.gch
+xYoutubeUserChannels_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@41"Precompile YoutubeUserChannels_Prefix.pch326756668#326756670#0(0"0(0#0#59"/Users/boris/Desktop/youtube/YoutubeUserChannels_Prefix.pch8614533440#1934"    cd /Users/boris/Desktop/youtube    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-generated-files.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-own-target-headers.hmap -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-all-target-headers.hmap -iquote /Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/YoutubeUserChannels-project-headers.hmap -F/Users/boris/Desktop/youtube/build/Debug-iphonesimulator -I/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/include -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources/i386 -I/Users/boris/Desktop/youtube/build/YoutubeUserChannels.build/Debug-iphonesimulator/YoutubeUserChannels.build/DerivedSources -c /Users/boris/Desktop/youtube/YoutubeUserChannels_Prefix.pch -o /var/folders/2e/2e2TQw9pHQWVfSXQTR2E3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/YoutubeUserChannels_Prefix-ejdnuhpvdkmqsgglewfspippcmaj/YoutubeUserChannels_Prefix.pch.gch0#
+
+CTouch /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app
+s326645747.075943
+e326645747.078403
+r1
+xTouch
+x/Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app
+lSLF07#2@89"Touch /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app326645747#326645747#0(0"0(0#0#0"8628190112#276"    cd /Users/boris/Desktop/pomfEtThud    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/boris/Desktop/pomfEtThud/build/Debug-iphonesimulator/YoutubeUserChannels.app0#
+
+CTouch /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app
+s326756671.444309
+e326756671.447146
+r1
+xTouch
+x/Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app
+lSLF07#2@86"Touch /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app326756671#326756671#0(0"0(0#0#0"8614708128#270"    cd /Users/boris/Desktop/youtube    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/boris/Desktop/youtube/build/Debug-iphonesimulator/YoutubeUserChannels.app0#
+
